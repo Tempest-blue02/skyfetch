@@ -1,6 +1,6 @@
 function WeatherApp() {
 
-  this.apiKey = "YOUR_API_KEY";
+  this.apiKey = "9c996c630014a5cb82c32e9c97cf5f67";
 
   this.weatherContainer =
     document.getElementById("weather-container");
